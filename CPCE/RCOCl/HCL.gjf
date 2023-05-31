@@ -1,0 +1,12 @@
+%chk=C:\Users\LawalM\Desktop\CPCE\RCOCl\HCL.chk
+# b3lyp/6-31+g(d) geom=connectivity counterpoise=2
+
+hcl cp
+
+0 1 0 2 0 2
+ Cl(Fragment=1)     0.00000000    0.00000000    0.07166700
+ H(Fragment=2)      0.00000000    0.00000000   -1.21833300
+
+ 1 2 1.0
+ 2
+
