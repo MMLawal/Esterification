@@ -1,0 +1,22 @@
+%nprocshared=8
+%nprocl=1
+# opt freq b3lyp/def2tzvp geom=connectivity
+
+HI def2tzvp
+
+0 1
+ I                  0.00000000    0.00000000    0.03037900
+ H                  0.00000000    0.00000000   -1.61008800
+
+ 1 2 1.0
+ 2
+
+
+
+
+
+
+
+
+
+
