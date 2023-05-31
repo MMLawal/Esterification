@@ -1,0 +1,12 @@
+%chk=C:\Users\LawalM\Desktop\CPCE\RCOF\hfcp.chk
+# b3lyp/6-31+g(d) geom=connectivity counterpoise=2
+
+Title Card Required
+
+0 1 0 2 0 2
+ F(Fragment=1)      0.68115944    1.23188404    0.00000000
+ H(Fragment=2)     -0.19884056    1.23188404    0.00000000
+
+ 1 2 1.0
+ 2
+
