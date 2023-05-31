@@ -1,0 +1,14 @@
+%chk=C:\Users\LawalM\Desktop\RCOOH\H2Ocp.chk
+# b3lyp/6-31+g(d) geom=connectivity counterpoise=2
+
+Title Card Required
+
+0 1 0 2 0 2
+ O(Fragment=1)      0.00000000    0.00000000    0.11729100
+ H(Fragment=1)      0.00000000    0.77129900   -0.46916400
+ H(Fragment=2)      0.00000000   -0.77129900   -0.46916400
+
+ 1 2 1.0 3 1.0
+ 2
+ 3
+

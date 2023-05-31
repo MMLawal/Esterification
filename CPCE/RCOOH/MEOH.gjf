@@ -1,0 +1,20 @@
+%chk=C:\Users\LawalM\Desktop\CPCE\RCOOH\MEOH.chk
+# b3lyp/6-31+g(d) geom=connectivity counterpoise=2
+
+Title Card Required
+
+0 1 0 2 0 2
+ C(Fragment=1)      0.66856800   -0.02076100    0.00000100
+ H(Fragment=1)      1.08129300    0.99083900   -0.00042400
+ H(Fragment=1)      1.02928600   -0.54699300   -0.89570200
+ H(Fragment=1)      1.02934500   -0.54627500    0.89610400
+ O(Fragment=1)     -0.74944900    0.12293000    0.00000100
+ H(Fragment=2)     -1.15574200   -0.75644000    0.00000600
+
+ 1 2 1.0 3 1.0 4 1.0 5 1.0
+ 2
+ 3
+ 4
+ 5 6 1.0
+ 6
+
