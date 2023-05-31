@@ -1,0 +1,10 @@
+%chk=C:\Users\214584429\Google Drive\214584429 MONSURAT\ACID CAT\cl-cpcm.chk
+# freq x3lyp/6-31+g(d) scrf=(cpcm,solvent=methanol) geom=connectivity
+
+Title Card Required
+
+-1 1
+ Cl                 0.00000000    0.00000000    0.00000000
+
+ 1
+
